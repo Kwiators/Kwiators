@@ -1,7 +1,7 @@
 # YOO
 
 - 👋 Hi, I’m @Kwiators
-- 👀 I’m interested in Gym
+- 👀 I’m interested in abcd
 - 🌱 I’m currently learning ML in Python
 
 <!---
