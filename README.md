@@ -7,7 +7,7 @@ I enjoy solving problems, crafting smooth UI experiences, and continuously impro
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/filip-kwiatkowski-9405572a8/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/filip-kwiatkowski-9405572a8/))
 
 ---
 
