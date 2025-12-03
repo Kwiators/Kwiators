@@ -32,11 +32,9 @@ I enjoy solving problems, crafting smooth UI experiences, and continuously impro
 
 ### **Android Development**
 - Jetpack Compose  
-- MVVM  
+- MVVM
+- SOLID
 - Android Studio  
-- WebSocket  
-- Android System Development  
-- Mobile App Development  
 
 ### **Tools & Collaboration**
 - Postman  
