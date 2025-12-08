@@ -1,8 +1,19 @@
-# 👋 Hi, I'm Filip
-### Android Developer · Jetpack Compose Enthusiast · Kotlin Lover
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02F781&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Filip" alt="Typing SVG" />
+</p>
 
-I'm an Android developer focused on building modern, clean, and scalable apps using **Jetpack Compose** and the latest Android technologies.  
+<h3 align="center">Android Developer · Jetpack Compose Enthusiast · Kotlin Lover</h3>
+ <p align="center">
+ <img src="https://img.shields.io/badge/Enviorment-Android-lightgreen" alt="" />
+  <img src="https://img.shields.io/badge/Main_Language-Kotlin-purple" alt="" />
+  <img src="https://img.shields.io/badge/Kotlin_Framework-Jetpack Compose-darkblue" alt="" />
+  <img src="https://img.shields.io/badge/Commercial_Experience-Yes-green" alt="" />
+ </p>
+
+<p align="center">
+I'm an <b>Android developer</b> focused on building modern, clean, and scalable apps using <b>Jetpack Compose</b> and the latest Android technologies.  
 I enjoy solving problems, crafting smooth UI experiences, and continuously improving both code and product quality.
+</p>
 
 ---
 
@@ -24,24 +35,26 @@ I enjoy solving problems, crafting smooth UI experiences, and continuously impro
 ## 🛠 Tech Stack & Tools
 
 ### **Languages & Core**
-- Kotlin  
-- Android SDK  
-- JSON  
-- RESTful API  
-- Gradle  
+- Kotlin
+- Android SDK
+- Gradle
 
 ### **Android Development**
-- Jetpack Compose  
+- Jetpack Compose
+- Dependency Injection
+- REST
+- Web Socket
+- Coroutines 
 - MVVM
 - SOLID
 - Android Studio  
 
 ### **Tools & Collaboration**
-- Postman  
-- Jira  
-- Confluence  
-- Figma  
-- Git  
+- Postman
+- Jira
+- Confluence
+- Figma
+- Git
 
 ---
 
